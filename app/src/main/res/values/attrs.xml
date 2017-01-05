@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="scrow">
+        <attr name="header" format="reference"></attr>
+        <attr name="headerHeight" format="dimension"></attr>
+        <attr name="headerVisibleHeight" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>
